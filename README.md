@@ -10,6 +10,15 @@ I'm a career-shifter from Quality Assurance to Data Analytics, currently buildin
 🫙 **Databases & Querying:** MySQL
 📋 **Other Skills:** Data Validation, Dashboard Design, Reporting, Problem Solving, Analytical Thinking, Attention to Detail, Team Collaboration
 
+## Projects
+**OfficeHub Supplies Inc - Project**
+
+- Cleaned and standardized dataset using Excel Power Query
+- Analyzed and compare sales performance using PivotTables and Charts
+- Communicated insights and recommendations through visualization
+
+[View this project](https://github.com/JeruCrs/Project-Retail-Sales-Analysis)
+
 ## 📊 Currently Learning
 
 I'm continuously developing my data analytics skills through self-study and practical projects, with a focus on data cleaning, analysis, visualization, and communicating insights effectively. I'm excited to keep learning, build meaningful projects, and grow as a Data Analyst.
