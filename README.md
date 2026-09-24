@@ -19,9 +19,9 @@ I'm a career-shifter from Quality Assurance to Data Analytics, currently buildin
 
 [View this project](https://github.com/JeruCrs/Project-Retail-Sales-Analysis)
 
-## 💬 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/jerusaincarasi)
-[Facebook/Messenger](https://www.facebook.com/qwatrooo)
+### 💬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jerusaincarasi)
+- [Facebook/Messenger](https://www.facebook.com/qwatrooo)
 
 ## 📊 Currently Learning
 
