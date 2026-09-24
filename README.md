@@ -22,8 +22,8 @@ I'm a career-shifter from Quality Assurance to Data Analytics, currently buildin
 - [View this project](https://github.com/JeruCrs/Customer-Support-Performance-Analysis)
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jerusaincarasi)
-- [Facebook/Messenger](https://www.facebook.com/qwatrooo)
+- [My LinkedIn Profile](https://www.linkedin.com/in/jerusaincarasi)
+- [My Facebook/Messenger Account](https://www.facebook.com/qwatrooo)
 
 ## 📊 Currently Learning
 I'm continuously developing my data analytics skills through self-study and practical projects, with a focus on data cleaning, analysis, visualization, and communicating insights effectively. I'm excited to keep learning, build meaningful projects, and grow as a Data Analyst.
