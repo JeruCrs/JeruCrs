@@ -10,7 +10,7 @@ I'm a career-shifter from Quality Assurance to Data Analytics, currently buildin
 🫙 **Databases & Querying:** MySQL
 📋 **Other Skills:** Data Validation, Dashboard Design, Reporting, Problem Solving, Analytical Thinking, Attention to Detail, Team Collaboration
 
-## Projects
+## ☑️ Projects
 **OfficeHub Supplies Inc - Project**
 
 - Cleaned and standardized dataset using Excel Power Query
@@ -18,6 +18,10 @@ I'm a career-shifter from Quality Assurance to Data Analytics, currently buildin
 - Communicated insights and recommendations through visualization
 
 [View this project](https://github.com/JeruCrs/Project-Retail-Sales-Analysis)
+
+## 💬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/jerusaincarasi)
+[Facebook/Messenger](https://www.facebook.com/qwatrooo)
 
 ## 📊 Currently Learning
 
