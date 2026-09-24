@@ -13,7 +13,13 @@ I'm a career-shifter from Quality Assurance to Data Analytics, currently buildin
 - Cleaned and standardized dataset using Excel Power Query
 - Analyzed and compare sales performance using PivotTables and Charts
 - Communicated insights and recommendations through visualization
-- [View this project](https://github.com/JeruCrs/Project-Retail-Sales-Analysis)
+  [View this project](https://github.com/JeruCrs/Project-Retail-Sales-Analysis)
+
+**LinkUP Broadband - Project**
+- Cleaned and standardized dataset using Microsoft PowerBI Power Query
+- Analyzed and visualize through charts and measurements
+- Communicate findings/insights through visuals and plain-text recommendations
+  [View this project](https://github.com/JeruCrs/Customer-Support-Performance-Analysis)
 
 ## 💬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jerusaincarasi)
