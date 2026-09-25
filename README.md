@@ -1,5 +1,7 @@
 ## Hi, I'm Jerusain Carasi 👨‍🦱
-I'm a career-shifter from Quality Assurance to Data Analytics, currently building my skills through self-study and hands-on projects. My background in Quality Assurance taught me the importance of validating requirements, identifying inconsistencies, paying attention to details, and approaching problems analytically. I'm now applying those skills to working with data from validating, cleaning, and standardizing datasets to exploring patterns, creating visualizations, and turning findings into actionable insights. I particularly enjoy the process of taking raw and messy data, making it reliable and understandable, and transforming it into meaningful reports and dashboards that can support better decision-making.
+I’m an aspiring Data Analyst with a background in Quality Assurance, currently developing my data analytics skills through self-study and hands-on projects. My experience in QA, including validating requirements, identifying inconsistencies, paying close attention to detail, and approaching problems analytically, has provided me with a strong foundation for working with data.
+
+I’m applying these skills to data analytics by validating, cleaning, and standardizing datasets, exploring patterns and trends, creating visualizations, and translating findings into meaningful insights. I particularly enjoy transforming raw and messy data into reliable, structured, and understandable information, and turning that information into reports and dashboards that can support data-driven decision-making.
 
 ## 🛠️ Skills and Tools
 - 📈 **Data Visualization:** Power BI, Microsoft Excel
